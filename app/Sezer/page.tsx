@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>Sezer</div>
+    <div>Sezer xxxx</div>
   )
 }
 
